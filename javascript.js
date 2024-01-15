@@ -1,68 +1,18 @@
 <!DOCTYPE html>
 <html>
-<head>
-<script>
-function myFunction() {
-  document.getElementById("demo").innerHTML = "Paragraph changed.";
-}
-</script>
-</head>
 <body>
-<h2>Demo JavaScript in Head</h2>
 
-<p id="demo">A Paragraph</p>
-<button type="button" onclick="myFunction()">Try it</button>
+<h2>My First Web Page</h2>
+<p>Btech_IT Student are.</p>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = 14 +15 ;
+</script>
 
 </body>
-</html><!DOCTYPE html>
-<html>
-<head>
-<script>
-function myFunction() {
-  document.getElementById("demo").innerHTML = "Paragraph changed.";
-}
-</script>
-</head>
-<body>
-<h2>Demo JavaScript in Head</h2>
-
-<p id="demo">A Paragraph</p>
-<button type="button" onclick="myFunction()">Try it</button>
-
-</body>
-</html><!DOCTYPE html>
-<html>
-<head>
-<script>
-function myFunction() {
-  document.getElementById("demo").innerHTML = "Paragraph changed.";
-}
-</script>
-</head>
-<body>
-<h2>Demo JavaScript in Head</h2>
-
-<p id="demo">A Paragraph</p>
-<button type="button" onclick="myFunction()">Try it</button>
-
-</body>
-</html><!DOCTYPE html>
-<html>
-<head>
-<script>
-function myFunction() {
-  document.getElementById("demo").innerHTML = "Paragraph changed.";
-}
-</script>
-</head>
-<body>
-<h2>Demo JavaScript in Head</h2>
-
-<p id="demo">A Paragraph</p>
-<button type="button" onclick="myFunction()">Try it</button>
-
-</body>
-</html>
+</html> 
 
 
 
